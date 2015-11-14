@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Basicjava.Constructor"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimePermission"/>
+<fullyQualifiedTypeName name="org.apache.regexp.recompile"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="java.lang.Runtime"/>
+<fullyQualifiedTypeName name="org.testng.annotations.DataProvider"/>
+<fullyQualifiedTypeName name="net.sourceforge.htmlunit.corejs.javascript.ObjArray"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="javax.management.DescriptorRead"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.DesiredCapabilities"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Platform"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.remote.RemoteWebDriver"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.JDBC4CallableStatement"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+</qualifiedTypeNameHistroy>

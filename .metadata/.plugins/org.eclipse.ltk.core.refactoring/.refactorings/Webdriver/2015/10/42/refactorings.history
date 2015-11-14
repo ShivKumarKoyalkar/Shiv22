@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Selenium_learning/src/wait&apos;&#x0D;&#x0A;- Original project: &apos;Webdriver&apos;&#x0D;&#x0A;- Destination element: &apos;Selenium_learning/src/wait&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     day10.ImplicitWait.java&#x0D;&#x0A;     day10.RadioButtonsTesting2.java&#x0D;&#x0A;     day10.RadioButtonstesting1.java" description="Copy compilation units" destination="=Selenium_learning/src&lt;wait" element1="/src&lt;day10{ImplicitWait.java" element2="/src&lt;day10{RadioButtonsTesting2.java" element3="/src&lt;day10{RadioButtonstesting1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1444561188093" units="3" version="1.0"/>
+</session>
